@@ -22,6 +22,8 @@
 
 ### 3
 WORD "AWARD"
+
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2011.18.31.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2011.20.42.png?raw=true)
 
+По BNC со второй половины XX века наблюдается резкий рост частотности слова "award", по Google Engrams его частотность так же растет, но не резко, а плавно. 
