@@ -1,10 +1,13 @@
 # hw6
+## GOOGLE NGRAM VIEWER 
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2010.26.26.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2010.13.23.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2010.26.12.png?raw=true)
 ВЫВОДЫ К ПОСЛЕДНЕМУ ГРАФИКУ
 
 В британском английском слово "railway" употребляется заметно чаще, чем его синоним "railroad". В американском английском наоборот - слово "railroad" употребляется чаще, чем "railway". 
+
+## SKETCH ENGINE
 
 ![](https://github.com/daryagerasimenko/hw6/blob/master/Screen%20Shot%202018-04-07%20at%2010.57.47.png?raw=true)
 
